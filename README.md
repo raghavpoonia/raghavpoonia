@@ -1,7 +1,9 @@
 # Raghav Dinesh
 
-I think about security architecture and how systems should work.
+I care about how systems fail, how they recover, and the small decisions that shape their long-term behavior.
 
-Currently working on a few things, check the pinned repos.
+The work here is a mix of experiments, guardrails, and ideas that refused to stay in my head.
+
+The pinned repos tell the rest.
 
 I enjoy building things that matter and solving problems no one asked for.
