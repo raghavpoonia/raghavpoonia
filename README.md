@@ -1,9 +1,7 @@
-# Raghav Dinesh
+**Raghav Dinesh**
 
-I care about how systems fail, how they recover, and the small decisions that shape their long-term behavior.
+I work on systems that are expected to behave even when the world doesn't.
 
-The work here is a mix of experiments, guardrails, and ideas that refused to stay in my head.
+Some projects start as questions I can't ignore. Others start because something broke and I wanted to understand why.
 
-The pinned repos tell the rest.
-
-I enjoy building things that matter and solving problems no one asked for.
+Pinned repos are the closest thing to a roadmap.
